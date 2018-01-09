@@ -1,0 +1,11 @@
+Kapitel 1
+	1. Kommandot input() skriver ut innehållet i paranteserna först, sedan tar den emot användarens inmatning. print() skriver bara ut innehållet i paranteserna.
+	2. * betyder multiplikation, ** betyder exponent.
+	3. En float är ett decimaltal med sju bitars precision, en int är ett heltal.
+
+Kapitel 2
+	4. Se division.py
+
+Kapitel 3
+	5. Programmet skriver ut n och n upphöjt i fyra i intervallet 7 till 100 i steg av fem.
+	6. Se delbart5.py
